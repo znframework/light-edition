@@ -1,4 +1,4 @@
-<h2>ZN Framework Ligth Edition</h2>
+<h2>ZN Framework Light Edition</h2>
 <p>
     It is a special lightweight edition blended from the essence of the ZN Framework, offering rational and comfortable use.
 </p>
