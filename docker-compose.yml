@@ -1,6 +1,6 @@
 version: "3"
 services:
-  ligth-edition:
+  light-edition:
     container_name: le
     build: ./
     ports:

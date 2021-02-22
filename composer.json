@@ -1,6 +1,6 @@
 {
     "name": "znframework/light-edition",
-    "version": "6.1.1",
+    "version": "1.0.0",
     "type": "project",
     "description": "ZN Framework Light Edition",
     "keywords": ["zn","zeroneed"],
