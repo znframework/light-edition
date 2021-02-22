@@ -1,6 +1,6 @@
 <h2>ZN Framework Ligth Edition</h2>
 <p>
-    It is a special lightweight edition blended from the essence of the ZN Frame, offering rational and comfortable use.
+    It is a special lightweight edition blended from the essence of the ZN Framework, offering rational and comfortable use.
 </p>
 
 <h3>Installation</h3>
