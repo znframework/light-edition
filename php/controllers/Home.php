@@ -6,4 +6,9 @@ class Home extends Controller
     {
         
     }
+
+    public function s404()
+    {
+        
+    }
 }
