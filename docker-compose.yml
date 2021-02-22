@@ -1,7 +1,7 @@
 version: "3"
 services:
-  znframework:
-    container_name: ce
+  ligth-edition:
+    container_name: le
     build: ./
     ports:
       - "8080:80"
