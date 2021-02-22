@@ -58,8 +58,8 @@
     'settings' =>
     [
         'IfModule mod_headers.c'                              => ['Options -Indexes'],
-	    'FilesMatch "^(?i:docker\-compose\.yml|Dockerfile)$"' => ['deny from all']
-
+	    'FilesMatch "^(?i:docker\-compose\.yml|Dockerfile)$"' => ['deny from all'],
+        'RedirectMatch 403 /(config|html|php|routes|storage|system)/.*$'
         //'IfModule mod_rewrite.c'  =>
         //[
         //    'RewriteCond %{HTTPS} !=on',
