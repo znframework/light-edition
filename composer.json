@@ -1,6 +1,6 @@
 {
     "name": "znframework/light-edition",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "project",
     "description": "ZN Framework Light Edition",
     "keywords": ["zn","zeroneed"],
@@ -61,6 +61,6 @@
     "scripts": 
     {
         "post-create-project-cmd": ["php zerocore generate-project-key"],
-        "build": ["docker-compose up"]
+        "build": ["composer create-project znframework/software-drivers", "php zerocore export-docker-container php8.0-apache-full", "docker-compose up"]
     }
 }
