@@ -36,7 +36,7 @@
             '/php/',
             '/routes/',
             '/storage/',
-            '/systme/'
+            '/system/'
         ]
     ]
 ];
