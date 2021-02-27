@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /config/
+Disallow: /html/
+Disallow: /php/
+Disallow: /routes/
+Disallow: /storage/
+Disallow: /system/

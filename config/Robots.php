@@ -30,10 +30,13 @@
         'allow'     => [],
         'disallow'  =>
         [
-            '/External/',
-            '/Internal/',
-            '/Projects/',
-            '/Settings/'
+            '/assets/',
+            '/config/',
+            '/html/',
+            '/php/',
+            '/routes/',
+            '/storage/',
+            '/systme/'
         ]
     ]
 ];
