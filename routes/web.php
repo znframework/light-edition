@@ -1,3 +1,3 @@
 <?php
 
-Route::show404('Home/s404');
+Route::direct()->show404('Home/s404');
