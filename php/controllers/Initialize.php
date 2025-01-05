@@ -2,7 +2,7 @@
 
 class Initialize extends Controller
 {
-    public function main(string $params = NULL)
+    public function main(?string $params = NULL)
     {
         Theme::active('/');
 
